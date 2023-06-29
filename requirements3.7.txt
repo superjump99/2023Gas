@@ -1,0 +1,6 @@
+sklearn
+numpy~=1.24.2
+pandas~=1.5.3
+pycaret==2.3.10
+notebook
+openpyxl
